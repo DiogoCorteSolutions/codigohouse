@@ -11,5 +11,9 @@
     "url": "c:\\Users\\diogo.corte\\workspace\\RepositorioGIT\\codigohouse"
   },
   "author": "Francisco",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
 }
