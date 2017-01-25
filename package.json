@@ -1,0 +1,15 @@
+{
+  "name": "alurahouse",
+  "version": "1.0.0",
+  "description": "Criando aplicação para aprendizado com node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "c:\\Users\\diogo.corte\\workspace\\RepositorioGIT\\codigohouse"
+  },
+  "author": "Francisco",
+  "license": "ISC"
+}
